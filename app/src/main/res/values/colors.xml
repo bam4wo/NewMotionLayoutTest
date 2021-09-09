@@ -5,7 +5,44 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">@color/green</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorAccent">#03a9f4</color>
+
+    <color name="white_f4">#ffffff</color>
+    <color name="dark_grey">#6c6c6c</color>
+    <color name="black">#272727</color>
+    <color name="red">#ec4d49</color>
+    <color name="orange">#ff7313</color>
+    <color name="warm_grey">#9b9b9b</color>
+    <color name="white">#f4f4f4</color>
+    <color name="light_grey">#dddddd</color>
+    <color name="pinkish_grey">#c8c8c8</color>
     <color name="green">#00a94f</color>
+    <color name="light_yellow">#fff7bf</color>
+    <color name="beigh_grey">#f7f5f1</color>
+    <color name="warm_yellow">#ffe316</color>
+    <color name="brownish_grey">#494949</color>
+    <color name="grass">#5ccf0f</color>
+    <color name="pale_pink">#ffdbdb</color>
+    <color name="container_background_color">#f5f5f5</color>
+    <color name="beige_grey">#f7f5f1</color>
+    <color name="dark_blue">#2894ff</color>
+    <color name="dark_green">#0f964e</color>
+    <color name="emerald">#00a94f</color>
+    <color name="light_green">#E0F3E9</color>
+    <color name="btn_bg_disable">#cccccc</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="light_sage">#e1f7ea</color>
+    <color name="light_white">#ffffff</color>
+    <color name="light_yellows">#fcfbe5</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="pink">#EF5E86</color>
+    <color name="light_gray">#dddddd</color>
 </resources>
